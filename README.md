@@ -1,0 +1,2 @@
+# LocalAuthenticationTests
+UITest for biometrics LocalAuthentication
